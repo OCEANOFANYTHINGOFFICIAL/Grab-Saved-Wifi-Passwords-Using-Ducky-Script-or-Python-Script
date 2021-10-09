@@ -5,7 +5,7 @@ import time
 # Author - Nakshatra Ranjan Saha (OCEAN OF ANYTHING)
 # https://github.com/OCEANOFANYTHINGOFFICIAL
 time.sleep(1)
-pyautogui.hotkey("win","R")
+pyautogui.hotkey("win","r")
 time.sleep(1)
 # It Will Open cmd In A Very Small Window
 pyautogui.typewrite("cmd /k mode con: cols=15 lines=1", interval=0.02)
