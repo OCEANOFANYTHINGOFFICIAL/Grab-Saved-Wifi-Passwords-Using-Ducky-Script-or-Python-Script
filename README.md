@@ -8,7 +8,6 @@ Upload It To Your Rubber Ducky
 Then Just use It
 
 ```
-<br>
 ## Python Script for capture saved wifi passwords
 ```
 
